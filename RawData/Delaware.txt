@@ -1,0 +1,107 @@
+"Notes"	"Age"	"Age Code"	Projected Populations
+	"< 1 year"	"0"	11994
+	"1 year"	"1"	12040
+	"2 years"	"2"	12090
+	"3 years"	"3"	12146
+	"4 years"	"4"	12184
+	"5 years"	"5"	12228
+	"6 years"	"6"	12266
+	"7 years"	"7"	12288
+	"8 years"	"8"	12281
+	"9 years"	"9"	12233
+	"10 years"	"10"	12149
+	"11 years"	"11"	12020
+	"12 years"	"12"	11877
+	"13 years"	"13"	11725
+	"14 years"	"14"	11592
+	"15 years"	"15"	11480
+	"16 years"	"16"	11385
+	"17 years"	"17"	11345
+	"18 years"	"18"	11323
+	"19 years"	"19"	11400
+	"20 years"	"20"	10877
+	"21 years"	"21"	10658
+	"22 years"	"22"	10467
+	"23 years"	"23"	10192
+	"24 years"	"24"	10471
+	"25 years"	"25"	10558
+	"26 years"	"26"	10797
+	"27 years"	"27"	11104
+	"28 years"	"28"	11256
+	"29 years"	"29"	11683
+	"30 years"	"30"	11708
+	"31 years"	"31"	11454
+	"32 years"	"32"	11431
+	"33 years"	"33"	11249
+	"34 years"	"34"	11509
+	"35 years"	"35"	11490
+	"36 years"	"36"	11385
+	"37 years"	"37"	11405
+	"38 years"	"38"	11989
+	"39 years"	"39"	12907
+	"40 years"	"40"	12746
+	"41 years"	"41"	12163
+	"42 years"	"42"	11675
+	"43 years"	"43"	10938
+	"44 years"	"44"	10756
+	"45 years"	"45"	11031
+	"46 years"	"46"	10990
+	"47 years"	"47"	11252
+	"48 years"	"48"	11989
+	"49 years"	"49"	13006
+	"50 years"	"50"	13234
+	"51 years"	"51"	12717
+	"52 years"	"52"	12757
+	"53 years"	"53"	13049
+	"54 years"	"54"	13508
+	"55 years"	"55"	14137
+	"56 years"	"56"	14421
+	"57 years"	"57"	14601
+	"58 years"	"58"	14631
+	"59 years"	"59"	14609
+	"60 years"	"60"	14594
+	"61 years"	"61"	14219
+	"62 years"	"62"	14322
+	"63 years"	"63"	13817
+	"64 years"	"64"	13290
+	"65 years"	"65"	12864
+	"66 years"	"66"	12033
+	"67 years"	"67"	11633
+	"68 years"	"68"	10998
+	"69 years"	"69"	10566
+	"70 years"	"70"	10117
+	"71 years"	"71"	9747
+	"72 years"	"72"	9731
+	"73 years"	"73"	9455
+	"74 years"	"74"	7633
+	"75 years"	"75"	6922
+	"76 years"	"76"	6767
+	"77 years"	"77"	6396
+	"78 years"	"78"	5648
+	"79 years"	"79"	5017
+	"80 years"	"80"	4551
+	"81 years"	"81"	4234
+	"82 years"	"82"	3934
+	"83 years"	"83"	3488
+	"84 years"	"84"	3241
+	"85+ years"	"85+"	21146
+"---"
+"Dataset: State Population Projections 2004-2030"
+"Query Parameters:"
+"State: Delaware (10)"
+"Year: 2020"
+"Group By: Age"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/PopulationProjections.html for more information."
+"---"
+"Query Date: Nov 5, 2021 5:22:17 PM"
+"---"
+"Suggested Citation: Population Projections, United States, 2004 - 2030, by state, age and sex, on CDC WONDER Online Database,"
+"September 2005. Accessed at http://wonder.cdc.gov/population-projections.html on Nov 5, 2021 5:22:17 PM"
+"---"
+Caveats:
+"1. Population estimates and projections are updated periodically, population estimates and projections produced in the preceding"
+"years are superseded by the most recent population series for the same years. Population estimates are preferred to projections"
+"when estimates are available, unless the objective is to compare numbers with others in the projected series."

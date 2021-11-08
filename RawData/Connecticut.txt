@@ -1,0 +1,107 @@
+"Notes"	"Age"	"Age Code"	Projected Populations
+	"< 1 year"	"0"	46337
+	"1 year"	"1"	46659
+	"2 years"	"2"	46915
+	"3 years"	"3"	47063
+	"4 years"	"4"	47081
+	"5 years"	"5"	47015
+	"6 years"	"6"	46860
+	"7 years"	"7"	46639
+	"8 years"	"8"	46328
+	"9 years"	"9"	45899
+	"10 years"	"10"	45435
+	"11 years"	"11"	44952
+	"12 years"	"12"	44462
+	"13 years"	"13"	43971
+	"14 years"	"14"	43513
+	"15 years"	"15"	42954
+	"16 years"	"16"	42376
+	"17 years"	"17"	41886
+	"18 years"	"18"	41791
+	"19 years"	"19"	41768
+	"20 years"	"20"	41589
+	"21 years"	"21"	42692
+	"22 years"	"22"	42304
+	"23 years"	"23"	43650
+	"24 years"	"24"	44788
+	"25 years"	"25"	45331
+	"26 years"	"26"	46564
+	"27 years"	"27"	48029
+	"28 years"	"28"	48929
+	"29 years"	"29"	50525
+	"30 years"	"30"	51753
+	"31 years"	"31"	50696
+	"32 years"	"32"	50144
+	"33 years"	"33"	49309
+	"34 years"	"34"	49581
+	"35 years"	"35"	49163
+	"36 years"	"36"	48906
+	"37 years"	"37"	49377
+	"38 years"	"38"	49356
+	"39 years"	"39"	48693
+	"40 years"	"40"	47857
+	"41 years"	"41"	46372
+	"42 years"	"42"	44430
+	"43 years"	"43"	42948
+	"44 years"	"44"	41974
+	"45 years"	"45"	42417
+	"46 years"	"46"	41325
+	"47 years"	"47"	42597
+	"48 years"	"48"	45285
+	"49 years"	"49"	48369
+	"50 years"	"50"	50629
+	"51 years"	"51"	48807
+	"52 years"	"52"	48156
+	"53 years"	"53"	48564
+	"54 years"	"54"	50756
+	"55 years"	"55"	53207
+	"56 years"	"56"	53019
+	"57 years"	"57"	51062
+	"58 years"	"58"	50962
+	"59 years"	"59"	50791
+	"60 years"	"60"	50686
+	"61 years"	"61"	47971
+	"62 years"	"62"	47000
+	"63 years"	"63"	44294
+	"64 years"	"64"	42348
+	"65 years"	"65"	41243
+	"66 years"	"66"	38767
+	"67 years"	"67"	37146
+	"68 years"	"68"	35220
+	"69 years"	"69"	33117
+	"70 years"	"70"	33091
+	"71 years"	"71"	32055
+	"72 years"	"72"	33070
+	"73 years"	"73"	33412
+	"74 years"	"74"	26737
+	"75 years"	"75"	24461
+	"76 years"	"76"	24793
+	"77 years"	"77"	25466
+	"78 years"	"78"	21990
+	"79 years"	"79"	18921
+	"80 years"	"80"	17766
+	"81 years"	"81"	16603
+	"82 years"	"82"	15609
+	"83 years"	"83"	14165
+	"84 years"	"84"	13325
+	"85+ years"	"85+"	105584
+"---"
+"Dataset: State Population Projections 2004-2030"
+"Query Parameters:"
+"State: Connecticut (09)"
+"Year: 2020"
+"Group By: Age"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/PopulationProjections.html for more information."
+"---"
+"Query Date: Nov 5, 2021 5:22:12 PM"
+"---"
+"Suggested Citation: Population Projections, United States, 2004 - 2030, by state, age and sex, on CDC WONDER Online Database,"
+"September 2005. Accessed at http://wonder.cdc.gov/population-projections.html on Nov 5, 2021 5:22:12 PM"
+"---"
+Caveats:
+"1. Population estimates and projections are updated periodically, population estimates and projections produced in the preceding"
+"years are superseded by the most recent population series for the same years. Population estimates are preferred to projections"
+"when estimates are available, unless the objective is to compare numbers with others in the projected series."

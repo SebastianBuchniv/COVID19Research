@@ -1,0 +1,107 @@
+"Notes"	"Age"	"Age Code"	Projected Populations
+	"< 1 year"	"0"	10555
+	"1 year"	"1"	10538
+	"2 years"	"2"	10590
+	"3 years"	"3"	10681
+	"4 years"	"4"	10763
+	"5 years"	"5"	10864
+	"6 years"	"6"	10990
+	"7 years"	"7"	11145
+	"8 years"	"8"	11277
+	"9 years"	"9"	11353
+	"10 years"	"10"	11385
+	"11 years"	"11"	11392
+	"12 years"	"12"	11336
+	"13 years"	"13"	11274
+	"14 years"	"14"	11124
+	"15 years"	"15"	10921
+	"16 years"	"16"	10641
+	"17 years"	"17"	10383
+	"18 years"	"18"	10176
+	"19 years"	"19"	9885
+	"20 years"	"20"	9625
+	"21 years"	"21"	9361
+	"22 years"	"22"	8762
+	"23 years"	"23"	8587
+	"24 years"	"24"	8529
+	"25 years"	"25"	8392
+	"26 years"	"26"	8545
+	"27 years"	"27"	8722
+	"28 years"	"28"	8983
+	"29 years"	"29"	9071
+	"30 years"	"30"	9288
+	"31 years"	"31"	9342
+	"32 years"	"32"	9365
+	"33 years"	"33"	9562
+	"34 years"	"34"	9938
+	"35 years"	"35"	10124
+	"36 years"	"36"	10331
+	"37 years"	"37"	10540
+	"38 years"	"38"	10652
+	"39 years"	"39"	10679
+	"40 years"	"40"	10816
+	"41 years"	"41"	10343
+	"42 years"	"42"	9917
+	"43 years"	"43"	9651
+	"44 years"	"44"	9264
+	"45 years"	"45"	9110
+	"46 years"	"46"	8726
+	"47 years"	"47"	8535
+	"48 years"	"48"	8918
+	"49 years"	"49"	9352
+	"50 years"	"50"	9228
+	"51 years"	"51"	8925
+	"52 years"	"52"	8693
+	"53 years"	"53"	8774
+	"54 years"	"54"	9247
+	"55 years"	"55"	9965
+	"56 years"	"56"	10513
+	"57 years"	"57"	10937
+	"58 years"	"58"	11145
+	"59 years"	"59"	11210
+	"60 years"	"60"	11351
+	"61 years"	"61"	10980
+	"62 years"	"62"	10951
+	"63 years"	"63"	10721
+	"64 years"	"64"	10598
+	"65 years"	"65"	10274
+	"66 years"	"66"	9929
+	"67 years"	"67"	9482
+	"68 years"	"68"	9164
+	"69 years"	"69"	8562
+	"70 years"	"70"	8209
+	"71 years"	"71"	7687
+	"72 years"	"72"	7394
+	"73 years"	"73"	6895
+	"74 years"	"74"	5600
+	"75 years"	"75"	5219
+	"76 years"	"76"	5228
+	"77 years"	"77"	5079
+	"78 years"	"78"	4538
+	"79 years"	"79"	4101
+	"80 years"	"80"	3849
+	"81 years"	"81"	3665
+	"82 years"	"82"	3409
+	"83 years"	"83"	3243
+	"84 years"	"84"	3112
+	"85+ years"	"85+"	23759
+"---"
+"Dataset: State Population Projections 2004-2030"
+"Query Parameters:"
+"State: South Dakota (46)"
+"Year: 2020"
+"Group By: Age"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/PopulationProjections.html for more information."
+"---"
+"Query Date: Nov 5, 2021 5:25:10 PM"
+"---"
+"Suggested Citation: Population Projections, United States, 2004 - 2030, by state, age and sex, on CDC WONDER Online Database,"
+"September 2005. Accessed at http://wonder.cdc.gov/population-projections.html on Nov 5, 2021 5:25:10 PM"
+"---"
+Caveats:
+"1. Population estimates and projections are updated periodically, population estimates and projections produced in the preceding"
+"years are superseded by the most recent population series for the same years. Population estimates are preferred to projections"
+"when estimates are available, unless the objective is to compare numbers with others in the projected series."

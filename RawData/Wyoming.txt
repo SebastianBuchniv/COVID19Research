@@ -1,0 +1,107 @@
+"Notes"	"Age"	"Age Code"	Projected Populations
+	"< 1 year"	"0"	5362
+	"1 year"	"1"	5483
+	"2 years"	"2"	5630
+	"3 years"	"3"	5774
+	"4 years"	"4"	5919
+	"5 years"	"5"	6072
+	"6 years"	"6"	6238
+	"7 years"	"7"	6388
+	"8 years"	"8"	6505
+	"9 years"	"9"	6612
+	"10 years"	"10"	6691
+	"11 years"	"11"	6738
+	"12 years"	"12"	6773
+	"13 years"	"13"	6763
+	"14 years"	"14"	6685
+	"15 years"	"15"	6536
+	"16 years"	"16"	6305
+	"17 years"	"17"	6038
+	"18 years"	"18"	5727
+	"19 years"	"19"	5396
+	"20 years"	"20"	5384
+	"21 years"	"21"	5401
+	"22 years"	"22"	5253
+	"23 years"	"23"	5215
+	"24 years"	"24"	5181
+	"25 years"	"25"	5200
+	"26 years"	"26"	5432
+	"27 years"	"27"	5572
+	"28 years"	"28"	5727
+	"29 years"	"29"	5936
+	"30 years"	"30"	6067
+	"31 years"	"31"	6087
+	"32 years"	"32"	6264
+	"33 years"	"33"	6607
+	"34 years"	"34"	6913
+	"35 years"	"35"	7334
+	"36 years"	"36"	7591
+	"37 years"	"37"	7877
+	"38 years"	"38"	7890
+	"39 years"	"39"	7930
+	"40 years"	"40"	7599
+	"41 years"	"41"	7012
+	"42 years"	"42"	6653
+	"43 years"	"43"	6293
+	"44 years"	"44"	6072
+	"45 years"	"45"	6067
+	"46 years"	"46"	5865
+	"47 years"	"47"	5941
+	"48 years"	"48"	6145
+	"49 years"	"49"	6416
+	"50 years"	"50"	6420
+	"51 years"	"51"	6077
+	"52 years"	"52"	5955
+	"53 years"	"53"	5817
+	"54 years"	"54"	6082
+	"55 years"	"55"	6604
+	"56 years"	"56"	7037
+	"57 years"	"57"	7333
+	"58 years"	"58"	7729
+	"59 years"	"59"	8062
+	"60 years"	"60"	8392
+	"61 years"	"61"	8319
+	"62 years"	"62"	8332
+	"63 years"	"63"	8329
+	"64 years"	"64"	8246
+	"65 years"	"65"	8225
+	"66 years"	"66"	7924
+	"67 years"	"67"	7652
+	"68 years"	"68"	7217
+	"69 years"	"69"	6786
+	"70 years"	"70"	6533
+	"71 years"	"71"	6034
+	"72 years"	"72"	5921
+	"73 years"	"73"	5675
+	"74 years"	"74"	4422
+	"75 years"	"75"	4119
+	"76 years"	"76"	4026
+	"77 years"	"77"	3778
+	"78 years"	"78"	3347
+	"79 years"	"79"	2951
+	"80 years"	"80"	2694
+	"81 years"	"81"	2527
+	"82 years"	"82"	2353
+	"83 years"	"83"	2137
+	"84 years"	"84"	1983
+	"85+ years"	"85+"	13351
+"---"
+"Dataset: State Population Projections 2004-2030"
+"Query Parameters:"
+"State: Wyoming (56)"
+"Year: 2020"
+"Group By: Age"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/PopulationProjections.html for more information."
+"---"
+"Query Date: Nov 5, 2021 5:26:03 PM"
+"---"
+"Suggested Citation: Population Projections, United States, 2004 - 2030, by state, age and sex, on CDC WONDER Online Database,"
+"September 2005. Accessed at http://wonder.cdc.gov/population-projections.html on Nov 5, 2021 5:26:03 PM"
+"---"
+Caveats:
+"1. Population estimates and projections are updated periodically, population estimates and projections produced in the preceding"
+"years are superseded by the most recent population series for the same years. Population estimates are preferred to projections"
+"when estimates are available, unless the objective is to compare numbers with others in the projected series."

@@ -1,0 +1,107 @@
+"Notes"	"Age"	"Age Code"	Projected Populations
+	"< 1 year"	"0"	10962
+	"1 year"	"1"	11193
+	"2 years"	"2"	11459
+	"3 years"	"3"	11715
+	"4 years"	"4"	11958
+	"5 years"	"5"	12186
+	"6 years"	"6"	12408
+	"7 years"	"7"	12613
+	"8 years"	"8"	12784
+	"9 years"	"9"	12869
+	"10 years"	"10"	12902
+	"11 years"	"11"	12840
+	"12 years"	"12"	12721
+	"13 years"	"13"	12544
+	"14 years"	"14"	12291
+	"15 years"	"15"	11953
+	"16 years"	"16"	11559
+	"17 years"	"17"	11093
+	"18 years"	"18"	10841
+	"19 years"	"19"	10452
+	"20 years"	"20"	10194
+	"21 years"	"21"	9985
+	"22 years"	"22"	9554
+	"23 years"	"23"	9382
+	"24 years"	"24"	9464
+	"25 years"	"25"	9596
+	"26 years"	"26"	9784
+	"27 years"	"27"	10103
+	"28 years"	"28"	10613
+	"29 years"	"29"	11071
+	"30 years"	"30"	11678
+	"31 years"	"31"	11659
+	"32 years"	"32"	12248
+	"33 years"	"33"	12608
+	"34 years"	"34"	13394
+	"35 years"	"35"	14010
+	"36 years"	"36"	14370
+	"37 years"	"37"	14897
+	"38 years"	"38"	14901
+	"39 years"	"39"	14456
+	"40 years"	"40"	14276
+	"41 years"	"41"	13877
+	"42 years"	"42"	13568
+	"43 years"	"43"	13155
+	"44 years"	"44"	12622
+	"45 years"	"45"	12426
+	"46 years"	"46"	11887
+	"47 years"	"47"	11822
+	"48 years"	"48"	12186
+	"49 years"	"49"	12679
+	"50 years"	"50"	12536
+	"51 years"	"51"	11969
+	"52 years"	"52"	11573
+	"53 years"	"53"	11659
+	"54 years"	"54"	11934
+	"55 years"	"55"	12916
+	"56 years"	"56"	13682
+	"57 years"	"57"	14254
+	"58 years"	"58"	14847
+	"59 years"	"59"	15307
+	"60 years"	"60"	15938
+	"61 years"	"61"	15603
+	"62 years"	"62"	15855
+	"63 years"	"63"	15652
+	"64 years"	"64"	15419
+	"65 years"	"65"	15392
+	"66 years"	"66"	14865
+	"67 years"	"67"	14550
+	"68 years"	"68"	13855
+	"69 years"	"69"	12906
+	"70 years"	"70"	12445
+	"71 years"	"71"	11697
+	"72 years"	"72"	11144
+	"73 years"	"73"	10625
+	"74 years"	"74"	8647
+	"75 years"	"75"	7959
+	"76 years"	"76"	7615
+	"77 years"	"77"	7479
+	"78 years"	"78"	6605
+	"79 years"	"79"	5967
+	"80 years"	"80"	5429
+	"81 years"	"81"	5013
+	"82 years"	"82"	4620
+	"83 years"	"83"	4295
+	"84 years"	"84"	3943
+	"85+ years"	"85+"	26732
+"---"
+"Dataset: State Population Projections 2004-2030"
+"Query Parameters:"
+"State: Montana (30)"
+"Year: 2020"
+"Group By: Age"
+"Show Totals: False"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/PopulationProjections.html for more information."
+"---"
+"Query Date: Nov 5, 2021 5:23:52 PM"
+"---"
+"Suggested Citation: Population Projections, United States, 2004 - 2030, by state, age and sex, on CDC WONDER Online Database,"
+"September 2005. Accessed at http://wonder.cdc.gov/population-projections.html on Nov 5, 2021 5:23:52 PM"
+"---"
+Caveats:
+"1. Population estimates and projections are updated periodically, population estimates and projections produced in the preceding"
+"years are superseded by the most recent population series for the same years. Population estimates are preferred to projections"
+"when estimates are available, unless the objective is to compare numbers with others in the projected series."
